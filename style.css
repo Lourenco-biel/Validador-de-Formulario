@@ -44,7 +44,7 @@ body{
 }
 
 .error{
-    font-size: 11px;
+    font-size: 12px;
     background-color: #F25046;
     color: #FFF;
     padding: 4px;
@@ -52,10 +52,25 @@ body{
     
 }
 
+#botão-submit{
+    background-color: #05AFF2;
+    font-size: 14px;
+
+}
+
 #botão-submit:hover{
-    opacity: 0.8;
+    opacity: 0.7;
+    background-color: #05AFF2;
+    color: #DDD;
+    font-size: 16px;
 }
 
 #botão-submit:active{
     opacity: 0.9;
+    font-weight: bolder;
+}
+
+a{
+text-decoration: none;
+color: #05AFF2;
 }
