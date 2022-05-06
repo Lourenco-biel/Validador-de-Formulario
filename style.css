@@ -51,3 +51,11 @@ body{
     border-radius: 5px;
     
 }
+
+#botão-submit:hover{
+    opacity: 0.8;
+}
+
+#botão-submit:active{
+    opacity: 0.9;
+}
