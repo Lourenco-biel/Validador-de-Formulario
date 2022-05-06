@@ -74,3 +74,16 @@ a{
 text-decoration: none;
 color: #05AFF2;
 }
+
+@media screen and (max-width:900px){
+    .leftside{
+        display: none;
+    }
+    .leftside img{
+    display: none;
+}
+.rightside{
+width: 100%;
+}
+}
+
