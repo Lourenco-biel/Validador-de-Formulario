@@ -1,6 +1,6 @@
 # Validador de Formulario
 
-<img src="./img/print.jpg" alt="IMG-Print">
+<img src="./img/foto.jpg" alt="IMG-Print">
 
 
 > Projeto finalizado 
